@@ -46,7 +46,8 @@ export function App() {
             <Statistics 
               good={good} 
               neutral={neutral} 
-              bad={bad} total={total} 
+              bad={bad}
+              total={total} 
               feedback={feedback}>
             </Statistics>
           </Section>
